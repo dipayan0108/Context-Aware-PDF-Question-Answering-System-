@@ -53,5 +53,4 @@ An interactive PDF-based chatbot that allows users to upload a PDF file and ask 
 1. Summarizing research papers
 2. Extracting key clauses from legal documents
 3. Conversationally navigating technical manuals
-
 4 .Interactive help for handbooks or user guides
