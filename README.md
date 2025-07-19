@@ -23,7 +23,7 @@ An interactive PDF-based chatbot that allows users to upload a PDF file and ask 
 - [HuggingFace Transformers](https://huggingface.co/)
 - [PyPDFLoader](https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf)
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -53,4 +53,5 @@ An interactive PDF-based chatbot that allows users to upload a PDF file and ask 
 1. Summarizing research papers
 2. Extracting key clauses from legal documents
 3. Conversationally navigating technical manuals
+
 4 .Interactive help for handbooks or user guides
